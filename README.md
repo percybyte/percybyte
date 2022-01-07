@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Percy Tejada </h1>
 <h3 align="center">A passionate Software Developer from Peru</h3>
 
-- 🔭 I’m currently working on Invian
+- 🔭 I’m currently working as Freelancer
 
 - 🌱 I’m currently learning **React Native and Blockchain**
 
