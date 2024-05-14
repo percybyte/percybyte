@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Freelancer
 
-- 🌱 I’m currently learning **React Native and Blockchain**
+- 🌱 I’m currently learning **Python and LLM Apps**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
