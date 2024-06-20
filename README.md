@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Percy Tejada </h1>
 <h3 align="center">A passionate Software Developer from Peru</h3>
 
-- 🔭 I’m currently working as Freelancer
+- 🔭 I’m currently working in CCSS
 
 - 🌱 I’m currently learning **Python and LLM Apps**
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **percytejada.code@gmail.com**
 
