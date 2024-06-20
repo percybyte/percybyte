@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **contact@percycode.com**
+- 📫 How to reach me: **percytejada.code@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, soccer and videogames...and coding of course**
 
