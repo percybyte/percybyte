@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python and LLM Apps**
 
-- 📫 How to reach me: **percytejada.code@gmail.com**
-
 - ⚡ What I like to do: **I like so much reading, soccer and videogames...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
