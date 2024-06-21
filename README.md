@@ -41,11 +41,11 @@
   </a>
 </p>
 <div align="center"> 
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=percyc0de&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percyc0de&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=percy-code&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percy-code&theme=react&layout=compact" />
   
   ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=percyc0de&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=percy-code&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 
