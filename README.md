@@ -43,7 +43,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percy-code&theme=react&layout=compact" />
   
   ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=percy-code&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=percybyte&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 
