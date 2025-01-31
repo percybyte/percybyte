@@ -1,53 +1,74 @@
-<h1 align="center">Hi 👋, I'm Percy Tejada </h1>
-<h3 align="center">A passionate Software Developer from Peru</h3>
+<h1 align="center">👋 Hey, I'm Percy Tejada (PercyByte) </h1>
+<h3 align="center">Full Stack Developer | LLM & AI Enthusiast | Building Scalable Intelligent Applications</h3>
 
-- 🔭 I’m currently working in CCSS 👔
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+</p>
 
-- 🌱 I’m currently learning **Python and LLM Apps**
+---
 
-- ⚡ What I like to do: **I like so much reading, soccer and videogames...and coding of course**
+## 🚀 About Me  
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+👨‍💻 I'm a **Full Stack Developer** with a passion for **AI-powered applications** and scalable software solutions. I specialize in **backend development**, **LLM-based applications**, and **modern frontend frameworks** to create seamless user experiences.  
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/percybyte/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/percybyte)
-[![image](https://img.shields.io/badge/youtube-%23D14836.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@percybyte)
-  
-</div>
+💡 My work focuses on integrating **Large Language Models (LLMs)**, **multi-agent systems**, and **RAG architectures** to enhance automation and intelligence in software applications.  
 
-<h3 align="center">Languages and Tools:</h3>
+🎯 I have experience building end-to-end applications using **FastAPI, Node.js, Next.js, Prisma, PostgreSQL, OpenAI APIs**, and modern UI frameworks like **React, Tailwind, and ShadCN**.  
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+---
+
+## ⚙️ Tech Stack  
+
+### 💡 Core Skills  
+- **Frontend:** Next.js, React, TailwindCSS, ShadCN, TypeScript  
+- **Backend:** FastAPI, Node.js, Express, Prisma, Sequelize  
+- **AI & LLM:** OpenAI, CrewAI, LangChain, FAISS, Pinecone  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **DevOps & Cloud:** Docker, AWS, Vercel  
+- **Other:** Git, Linux  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,fastapi,postgresql,mongodb,prisma,docker,git,linux,openai" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+🔹 [**Ask2Files**](https://github.com/percybyte/ask2files) - AI-powered document assistant for querying PDFs, DOCX, and TXT using LLMs and vector search.  
+
+🔹 [**Premiaf**](https://github.com/percybyte/premiaf) - Full-stack e-commerce & rewards platform using **Next.js, React, Node.js, Prisma, and PostgreSQL**.  
+
+🔹 [**CrewAI Automation**](https://github.com/percybyte/crewai-automation) - Automating reports generation using **CrewAI, FastAPI, and Pandas**.  
+
+💡 *Check out more projects in my [GitHub repositories](https://github.com/percybyte?tab=repositories).*  
+
+---
+
+## 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/percybyte/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://twitter.com/percybyte">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@percybyte">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
-<div align="center"> 
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=percybyte&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percybyte&theme=react&layout=compact" />
-  
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=percybyte&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-</div>
 
+---
 
+## 📊 GitHub Stats  
 
-<!--
-**percyc0de/percyc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=percybyte&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percybyte&theme=react&layout=compact" />
+</p>
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=percybyte&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+</p>
