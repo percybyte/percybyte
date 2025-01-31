@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | LLM & AI Enthusiast | Building Scalable Intelligent Applications</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ---
